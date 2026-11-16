@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/tanveeristhebest123-dev/DSA-Practice/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/tanveeristhebest123-dev/DSA-Practice/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
@@ -62,4 +63,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/tanveeristhebest123-dev/DSA-Practice/tree/master/0451-sort-characters-by-frequency) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/tanveeristhebest123-dev/DSA-Practice/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/tanveeristhebest123-dev/DSA-Practice/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/tanveeristhebest123-dev/DSA-Practice/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
